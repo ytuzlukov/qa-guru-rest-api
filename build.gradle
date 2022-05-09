@@ -10,6 +10,7 @@ dependencies {
     testImplementation(
             'io.rest-assured:rest-assured:4.5.1',
             'org.junit.jupiter:junit-jupiter:5.8.2',
+            'org.assertj:assertj-core:3.21.0',
             'org.slf4j:slf4j-simple:1.7.36'
     )
 }
